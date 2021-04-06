@@ -44,7 +44,7 @@ install:
 build_script:
   - cd /home/appveyor/site
   - git config --global credential.helper store
-  - echo "https://$GITHUB_ACCESS_TOKEN:x-oauth-basic@github.com\n" > $HOME\.git-credentials
+  - echo "https://$GITHUB_ACCESS_TOKEN:x-oauth-basic@github.com\n" > /home/appveyor/.git-credentials
   - git config --global user.email "daniel@frosty.gg"
   - git config --global user.name "daniel11420"
   - cd /home/appveyor/src
