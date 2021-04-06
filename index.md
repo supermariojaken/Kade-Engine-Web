@@ -6,6 +6,8 @@ You can also play the latest stable release.
 
 ## [Play Nightly](nightly/) | [Play Latest Stable Release](stable/)
 
+## Links
+
 ### Links to the original game
 Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
 Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
