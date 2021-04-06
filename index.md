@@ -18,9 +18,9 @@ Support the project on the itch.io page: [https://ninja-muffin24.itch.io/funkin]
 
 
 ### Links to Kade Engine
-Mod Page: https://gamebanana.com/gamefiles/16761
+Mod Page: [https://gamebanana.com/gamefiles/16761](https://gamebanana.com/gamefiles/16761)
 
-Latest GitHub release: https://github.com/KadeDev/Kade-Engine/releases/latest
+Latest GitHub release: [https://github.com/KadeDev/Kade-Engine/releases/latest](https://github.com/KadeDev/Kade-Engine/releases/latest)
 
 AppVeyor CI (Automatic builds of the latest commit):
 - Windows: [AppVeyor Project](https://ci.appveyor.com/project/KadeDev/kade-engine-windows) - [Artifacts (downloads)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/build/artifacts)
