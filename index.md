@@ -2,4 +2,4 @@
 
 This site hosts HTML5 builds of [Kade-Engine](https://github.com/KadeDev/Kade-Engine), compiled once every night at midnight UTC.
 
-# [Play Nightly](nightly/) | [View README](https://github.com/KadeDev/Kade-Engine/blob/master/README.md)
+# [Play](nightly/) | [View README](https://github.com/KadeDev/Kade-Engine/blob/master/README.md)
